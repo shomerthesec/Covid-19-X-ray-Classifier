@@ -4,3 +4,4 @@
 
 - The data used was Collected by Contributor(s): Walid El-Shafai, Fathi E. Abd El-Samie
  
+- The data was pre-Augmented so the results was pretty poor sadly.
